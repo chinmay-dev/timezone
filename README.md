@@ -2,7 +2,7 @@
 * datetime
 
 ## Installation
-* python3 -m pip install --index-url https://test.pypi.org/simple/ timezone-task-chinmay-dev
+* python -m pip install --index-url https://test.pypi.org/simple/ timezone-task-chinmay-dev
 
 ## How to run the code
 * from timezone_task import task
